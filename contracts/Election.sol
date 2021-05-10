@@ -23,8 +23,8 @@ contract Election {
 
     // Constructor
     constructor () public {
-        addCandidate("Cristina Kirchner");
-        addCandidate("Axel Kicillof");
+        addCandidate("First Candidate");
+        addCandidate("Second Candidate");
     }
 
     
